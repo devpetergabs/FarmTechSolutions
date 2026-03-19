@@ -54,7 +54,7 @@ O modelo de **Linear Regression** apresentou o melhor desempenho relativo (menor
 
 ## 🎥 Vídeo demonstrativo
 
-👉 (INSERIR LINK DO VÍDEO DA ENTREGA 1 AQUI)
+👉 https://youtu.be/ivfXPddnPn4
 
 ---
 
@@ -102,7 +102,7 @@ As simulações realizadas podem ser visualizadas na pasta:
 
 ## 🎥 Vídeo demonstrativo
 
-👉 (INSERIR LINK DO VÍDEO DA ENTREGA 2 AQUI)
+👉 https://youtu.be/KTL-JQDaXxw
 
 ---
 
